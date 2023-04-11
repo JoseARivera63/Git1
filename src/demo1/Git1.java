@@ -12,5 +12,7 @@ public class Git1 {
 		
 		
 	}
+	
+	int age = 600;
 
 }
